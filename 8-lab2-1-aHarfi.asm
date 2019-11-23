@@ -1,0 +1,4 @@
+MOV AH,2
+MOV DL,41
+int 21
+int 20

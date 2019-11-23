@@ -1,0 +1,12 @@
+; bolme  AH:KALAN - AL: BOLUM
+
+MOV AX,14
+MOV CL,3
+
+DIV CL  
+
+; AL: SONUC
+
+MOV AL,2
+MOV BL,3
+MUL BL

@@ -1,0 +1,4 @@
+MOV AL,6BH
+SHR AL,1
+SHR AL,3
+
