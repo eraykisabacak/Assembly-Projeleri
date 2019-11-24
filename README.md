@@ -24,6 +24,10 @@
 
 ## 12- 
 
-## 13-
+## 13- Bayrakları Değiştirme
 
-## 14-
+## 14- Bayraklar 2
+
+## 15- Assembly ile Bölme
+
+## 16- Assembly ile Çarpma
